@@ -29,15 +29,15 @@ grunt serve
 ```
 this will setup a server which hosts the app, open up your browser and point it to
 
-http://localhost:8080/index.html?responderOn=true#
+[http://localhost:8080/index.html?responderOn=true](http://localhost:8080/index.html?responderOn=true)
 
 this wil run the app using mock data for the OData service
 
 ## To run the Unit and Opa tests
 
-http://localhost:8080/test-resources/unit/UnitTestsGrunt.qunit.html
+[http://localhost:8080/test-resources/unit/UnitTestsGrunt.qunit.html](http://localhost:8080/test-resources/unit/UnitTestsGrunt.qunit.html)
 
-http://localhost:8080/test-resources/opa/OpaTestsGrunt.qunit.html
+[http://localhost:8080/test-resources/opa/OpaTestsGrunt.qunit.html](http://localhost:8080/test-resources/opa/OpaTestsGrunt.qunit.html)
 
 ## To run the Unit and Opa test via PhantomJS
 use one of the following commands to run both, or run individual
