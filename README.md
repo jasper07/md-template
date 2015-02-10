@@ -1,9 +1,8 @@
 ## Background
-This repo is a copy of the md-template app from the OpenUI5 repository, put it here to make it easy to fork . The original source is located [here](https://github.com/SAP/openui5/tree/master/src/sap.m/test/sap/m/demokit/md-template)
+This repo is a copy of the md-template app from the OpenUI5 repository, put it here to make it easy to fork. The original source is located [here](https://github.com/SAP/openui5/tree/master/src/sap.m/test/sap/m/demokit/md-template)
 
 
-
-I really like this app because
+I really like this app because it goes beyond other examples to date and shows you end-to-end how to setup and manage your UI5 application, from installing, running, testing and building.
 - it has very useful easy to follow Qunit and Opa tests
 - it show cases 'grunt-openui5' and Bower features available
 - shows how to automate your Qunit and Opa tests and run them silently in PhantomJS
