@@ -82,12 +82,12 @@ module.exports = function(grunt) {
 
 			all: ['<%= dir.tests %>', '<%= dir.webapp %>'],
 			webapp: ['<%= dir.webapp %>']
-		},
+			},
 		qunit: {
 			options: {
 				/* for debugging*/
 				'--remote-debugger-autorun' : 'yes',
-				'--remote-debugger-port' : 8000
+				'--remote-debugger-port' : 8081
 			},
 
 			unit: {
