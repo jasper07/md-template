@@ -1,6 +1,7 @@
 ## Background
-This repo is a copy of the md-template app from the OpenUI5 repository, put it here to make it easy to fork
-https://github.com/SAP/openui5/tree/master/src/sap.m/test/sap/m/demokit/md-template
+This repo is a copy of the md-template app from the OpenUI5 repository, put it here to make it easy to fork . The original source is located [here](https://github.com/SAP/openui5/tree/master/src/sap.m/test/sap/m/demokit/md-template)
+
+
 
 I really like this app because
 - it has very useful easy to follow Qunit and Opa tests
@@ -27,11 +28,15 @@ this will create a local copy of the repository, install all the necessary node 
 grunt serve
 ```
 this will setup a server which hosts the app, open up your browser and point it to
+
 http://localhost:8080/index.html?responderOn=true#
+
 this wil run the app using mock data for the OData service
 
 ## To run the Unit and Opa tests
+
 http://localhost:8080/test-resources/unit/UnitTestsGrunt.qunit.html
+
 http://localhost:8080/test-resources/opa/OpaTestsGrunt.qunit.html
 
 ## To run the Unit and Opa test via PhantomJS
