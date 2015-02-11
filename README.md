@@ -1,7 +1,7 @@
 ## Background
 This repo is a copy of the md-template app from the OpenUI5 repository, put it here to make it easy to fork. The original source is located [here](https://github.com/SAP/openui5/tree/master/src/sap.m/test/sap/m/demokit/md-template)
 
-_DISCLAIMER_ I copied this app under the knowledge that it is a work in progress, it will subject to change and should be used purely educational - see License
+_DISCLAIMER_ I copied this app under the knowledge that it is a work in progress, it will subject to change and should be used purely for educational purposes - see License
 
 I really like this app because it goes beyond other examples to date and shows you end-to-end how to setup and manage your UI5 application, from installing, running, testing and building.
 - it has very useful easy to follow Qunit and Opa tests
